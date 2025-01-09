@@ -1,5 +1,5 @@
 package goprint
 
-func Print(s string) {
+func Output(s string) {
 	println(s)
 }
